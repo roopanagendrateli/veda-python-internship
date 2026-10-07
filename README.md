@@ -37,3 +37,18 @@ Open the terminal in the project folder and run:
 
 ```bash
 python number_guessing_game.py
+## Task 7 - Simple Password Validator
+
+### Description
+A Python program that checks whether a password meets
+basic security requirements.
+
+### Validation Rules
+- Minimum password length
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one number
+- At least one special character
+
+### How to Run
+python password_validator.py
